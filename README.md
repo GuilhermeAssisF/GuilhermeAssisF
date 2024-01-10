@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Guilherme Assis Fernandes 👋
 
 - 📖 Hoje estou cursando Sistemas de Informação
-- 👨‍💻 Estudando Python e C#
-- 💻Conhecimento de Html e Css
+- 👨‍💻 Estudando Python, TypeScript
+- 💻Conhecimento de Html, Css, C# e MySql
 - 🖌️Designer
 
 <div align="center">
