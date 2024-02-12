@@ -2,7 +2,7 @@
 
 - 📖 Hoje estou cursando Sistemas de Informação
 - 👨‍💻 Estudando Python, TypeScript
-- 💻Conhecimento de Html, Css, C# e MySql
+- 💻Conhecimento em Html, Css, C# e MySql
 - 🖌️Designer
 
 <div align="center">
