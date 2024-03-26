@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Guilherme Assis Fernandes 👋
 
 - 📖 Hoje estou cursando Sistemas de Informação
-- 👨‍💻 Estudando Python, TypeScript
-- 💻Conhecimento em Html, Css, C# e MySql
-- 🖌️Designer
+- 👨‍💻 Estudando Java
+- 💻 Conhecimento em Html, Css, Python e MySql
+- 🖌️ Designer
 
 <div align="center">
   <img  height="180em" widht="4000em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAssisF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
