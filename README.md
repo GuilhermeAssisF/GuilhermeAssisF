@@ -5,7 +5,7 @@
 - 💻 Conhecimento em Java, Python, Html, Css e MySql
 - 🖌️ Designer
 
-<div align="center">
+<div align="left">
   <img height="200em" widht="2000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAssisF&layout=compact&langs_count=16&tokyonight"/>
 </div>
 <br>
