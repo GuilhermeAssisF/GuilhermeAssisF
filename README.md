@@ -6,7 +6,7 @@
 - 🖌️ Designer
 
 <div align="center">
-  <img height="180em" widht="2000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAssisF&layout=compact&langs_count=16&tokyonight"/>
+  <img height="200em" widht="2000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAssisF&layout=compact&langs_count=16&tokyonight"/>
 </div>
 <br>
 
