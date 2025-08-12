@@ -2,7 +2,7 @@
 
 - 📖 Hoje estou cursando Sistemas de Informação
 - 👨‍💻 Estudando Java
-- 💻 Conhecimento em Java, Python, Html, Css e MySql
+- 💻 Conhecimento em Java, Spring, Html, Css, React e MySql
 - 🖌️ Designer
 
 <div align="left">
@@ -15,7 +15,6 @@
 #### Main Stack:
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
